@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I'm a dedicated Frappe/ERPNext developer with a pa
 ## Contact
 
 - **LinkedIn**: [Muhammed Sinan K T](https://www.linkedin.com/in/your-linkedin-profile)
-- **X**: [Muhammed Sinan K T](https://x.com/muhammedsinankt)
+- **X**: [@muhammedsinankt](https://x.com/muhammedsinankt)
 - **Email**: [muhamsinankt@gmail.com](mailto:muhamsinankt@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat about Frappe, ERPNext, or video games!
 
 ---
 
-*Last updated: August 2024*
+*Last updated: September 2024*
