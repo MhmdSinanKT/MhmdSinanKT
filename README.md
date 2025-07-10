@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a dedicated Frappe/ERPNext developer with a pa
 
 ## Contact
 
-- **LinkedIn**: [Muhammed Sinan K T](https://www.linkedin.com/in/your-linkedin-profile)
+- **LinkedIn**: [Muhammed Sinan K T](https://www.linkedin.com/in/muhamsinankt)
 - **X**: [@muhammedsinankt](https://x.com/muhammedsinankt)
 - **Email**: [muhamsinankt@gmail.com](mailto:muhamsinankt@gmail.com)
 
