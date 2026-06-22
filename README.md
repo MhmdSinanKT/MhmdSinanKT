@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated Frappe/ERPNext developer with a pa
 
 - **Name**: Muhammed Sinan K T
 - **Location**: Kozhikode, Kerala, India
-- **Current Role**: Product Engineer
+- **Current Role**: Sr. Data Conversion Analyst
 - **Experience**: Working with Frappe/ERPNext since July 2022
 - **Interests**: Video games, Comics, and a quest to get physically fit
 
